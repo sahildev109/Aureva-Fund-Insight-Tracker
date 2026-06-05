@@ -15,8 +15,8 @@ A production-grade full-stack web application that enables authenticated users t
 
 ## Live Demo
 
-- **Frontend (Vercel):** https://aureva-fund-insight-tracker.vercel.app/
-- **Backend (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend (Vercel):** https://aureva-fund-insight-tracker.vercel.app
+- **Backend (Render):** https://aureva-fund-insight-tracker-g7rx.onrender.com
 
 ---
 
