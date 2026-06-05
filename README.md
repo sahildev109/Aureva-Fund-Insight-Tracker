@@ -15,7 +15,7 @@ A production-grade full-stack web application that enables authenticated users t
 
 ## Live Demo
 
-- **Frontend (Vercel):** [https://aureva-fund-tracker.vercel.app](https://aureva-fund-tracker.vercel.app)
+- **Frontend (Vercel):** https://aureva-fund-insight-tracker.vercel.app/
 - **Backend (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
 
 ---
@@ -395,3 +395,12 @@ A server-side caching mechanism is implemented for the NAV history endpoint to r
 
 - `schemeCode` is treated as a `Number` in MongoDB for consistent comparison.
 - NAV history is cached server-side for 1 hour (bonus feature).
+---
+
+## Author
+
+## Built by **Sahil Salap** — a passionate full-stack developer with a love for clean architecture and scalable design. Always eager to learn new technologies and solve complex problems.
+## Email: sahilsalap75@gmail.com
+## Phone: 8850306843
+## GitHub: [github.com/sahildev109](https://github.com/sahildev109)
+## LinkedIn: [linkedin.com/in/sahilsalap](https://www.linkedin.com/in/sahilsalap)
