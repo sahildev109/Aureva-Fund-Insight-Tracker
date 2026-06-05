@@ -155,7 +155,19 @@ npm run dev
 ---
 
 ## API Documentation
-
+### Health Endpoint
+- **Method:** `GET`
+- **Route** `/api/health`
+- **Description:** Check or ping the backend server.
+- **Auth Required:** No
+- **Success Response:** `201 Created`
+  ```json
+  {
+  "status": "ok",
+  "timestamp": "2026-06-05T06:05:40.882Z",
+  "uptime": 8432.889405418
+  }
+  ```
 ### Auth Routes
 #### Register User
 - **Method:** `POST`
